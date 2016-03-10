@@ -1,0 +1,28 @@
+name: John Marion Photography
+favicon: null
+layout_spectrum: 0.02127643278799951
+typography_spectrum: 0.9318483248353004
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.4997779957484454
+  lightness: 0.5774590943474323
+  saturation: 0.9492307053878903
+  rhythmicContrast: 0.2352252348791808
+purpose: []
