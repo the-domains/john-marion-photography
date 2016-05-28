@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[John Marion Photography]]></title>
         <description><![CDATA[John Marion Photography]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/john-marion-photography/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 10 Mar 2016 04:28:35 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 28 May 2016 10:57:34 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/john-marion-photography/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[Hanging on to the classic timeless and elegant portrait style. ]]></title>
-            <description><![CDATA[<article><h1>Hanging on to the classic timeless and elegant portrait style. </h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6e3d985d09f1b3b2fd533d0d88c404ae1b5c2aaa.jpg"></article>]]></description>
-            <link>undefinedhanging-on-to-the-classic-timeless-and-elegant-portrait-styl/index.html</link>
+            <title><![CDATA[Hanging on to classic timeless and elegant portrait style.]]></title>
+            <description><![CDATA[<article><h1>Hanging on to classic timeless and elegant portrait style.</h1><p>John Marion captures the spirit and soul of his clients, from young to old.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6e3d985d09f1b3b2fd533d0d88c404ae1b5c2aaa.jpg"></article>]]></description>
+            <link>https://thegrid.ai/john-marion-photography/hanging-on-to-the-classic-timeless-and-elegant-portrait-styl/index.html</link>
             <guid isPermaLink="false">0c78df82-a6a4-4bd1-b101-de8a0ceb5658</guid>
-            <pubDate>Thu, 10 Mar 2016 04:28:27 GMT</pubDate>
+            <pubDate>Sat, 28 May 2016 10:57:32 GMT</pubDate>
         </item>
     </channel>
 </rss>
